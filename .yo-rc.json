@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "abhi"
+    },
+    "libraryName": "mosAppSso1",
+    "generator-version": "4.1.0"
+  }
+}
